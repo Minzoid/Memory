@@ -1,3 +1,6 @@
+[![](https://jitpack.io/v/Minzoid/dynx-memory.svg)](https://jitpack.io/#Minzoid/dynx-memory)
+
+
 # DYNX Memory Java
 
 A production-grade Java library for interacting with Windows process memory. Inspired by `Memory.cs`.
