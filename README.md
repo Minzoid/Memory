@@ -62,7 +62,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.Minzoid:memory:1.0.0")
+    implementation("com.github.Minzoid:memory:1.0.1")
 }
 ```
 
@@ -74,7 +74,7 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.Minzoid:memory:1.0.0'
+    implementation 'com.github.Minzoid:memory:1.0.1'
 }
 ```
 
@@ -90,7 +90,7 @@ dependencies {
 <dependency>
     <groupId>com.github.Minzoid</groupId>
     <artifactId>memory</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
 
